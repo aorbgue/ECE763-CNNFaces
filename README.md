@@ -1,2 +1,2 @@
-# ECE763-CCNFaces
+# ECE763-CNNFaces
 Convolutional neural network for face classification (face/non-face). Computer Vision project 
